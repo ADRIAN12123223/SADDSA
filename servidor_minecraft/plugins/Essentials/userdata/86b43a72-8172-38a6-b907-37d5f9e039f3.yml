@@ -1,0 +1,104 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 10.119.209.97
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1782111040516
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1782111421914
+  login: 1782110813858
+money: '0'
+last-account-name: ADRIANMLG2
+logoutlocation:
+  world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+  world-name: world
+  x: -4591.5
+  y: 85.5
+  z: -4962.5
+  yaw: -179.40000915527344
+  pitch: -8.250027656555176
+lastlocation:
+  world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+  world-name: world
+  x: -4591.5
+  y: 85.5
+  z: -4963.5
+  yaw: -174.1499481201172
+  pitch: -19.65001678466797
+homes:
+  aldea:
+    world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+    world-name: world
+    x: -4278.113532941325
+    y: 64.0
+    z: -2400.533420675688
+    yaw: 10.949737548828125
+    pitch: 16.800113677978516
+  portal:
+    world: 35a6649e-7bb1-4540-8ec3-dc97c640532d
+    world-name: world_nether
+    x: -549.2109416795017
+    y: 49.0
+    z: -302.41293398421976
+    yaw: 90.028564453125
+    pitch: 3.899803638458252
+  rola:
+    world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+    world-name: world
+    x: 73.30984893755186
+    y: 74.0
+    z: -221.1682081574678
+    yaw: -119.11773681640625
+    pitch: 44.99991989135742
+  abajo:
+    world: 35a6649e-7bb1-4540-8ec3-dc97c640532d
+    world-name: world_nether
+    x: -756.4250528468443
+    y: 12.0
+    z: -273.69507978253284
+    yaw: -177.60202026367188
+    pitch: 69.45001983642578
+  q:
+    world: 35a6649e-7bb1-4540-8ec3-dc97c640532d
+    world-name: world_nether
+    x: -809.460395547221
+    y: 13.0
+    z: -320.52036669885587
+    yaw: -106.80398559570312
+    pitch: 41.250118255615234
+  creeper:
+    world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+    world-name: world
+    x: 1884.762499988079
+    y: 63.0
+    z: -2226.218228050776
+    yaw: -176.84915161132812
+    pitch: 6.449974060058594
+  casa:
+    world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+    world-name: world
+    x: -4579.1359275241775
+    y: 72.0
+    z: -4984.346243313782
+    yaw: 53.25244140625
+    pitch: 23.55008888244629
+  cristian:
+    world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+    world-name: world
+    x: -1254.9164730685522
+    y: 72.97669880464478
+    z: -492.33308585165594
+    yaw: -87.28673553466797
+    pitch: 39.59990310668945
